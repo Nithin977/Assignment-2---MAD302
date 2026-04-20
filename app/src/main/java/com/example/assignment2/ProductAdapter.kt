@@ -28,7 +28,7 @@ class ProductAdapter(
 ) : RecyclerView.Adapter<ProductAdapter.ProductViewHolder>() {
 
     /**
-     * ViewHolder for product item layout.
+     * ViewHolder for product item layouts.
      *
      * @param binding Binding object for item_product.xml
      */
