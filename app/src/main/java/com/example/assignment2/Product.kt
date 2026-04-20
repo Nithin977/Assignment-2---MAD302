@@ -6,7 +6,7 @@
  * Date of Submission: April 20, 2026
  *
  * Description:
- * This file contains the Product data class used by the application.
+ * This file contains the Product data class used by the applications.
  */
 package com.example.assignment2
 
