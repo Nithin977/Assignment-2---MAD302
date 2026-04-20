@@ -1,4 +1,4 @@
-MAD302 Project - Assignment 02
+MAD302 Project - 02
 
 by Nithin Amin
 
